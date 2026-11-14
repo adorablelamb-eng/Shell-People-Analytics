@@ -1,0 +1,6 @@
+{
+  "name": "Shell People Analytics",
+  "description": "Live UK workforce analytics dashboard for Shell HR leaders tracking headcount, attrition, compensation, and retention risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
